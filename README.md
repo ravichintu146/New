@@ -1,5 +1,5 @@
 # Sample war application using maven 
-
+#adding
 1. Navigate to the directory and run the below maven command to build the war file as
 ```
 $mvn clean verify
